@@ -2,5 +2,5 @@
  by Jiani Lin
 
 including:
-svm
-partial least square
+
+svm, partial least square
