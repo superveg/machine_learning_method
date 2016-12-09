@@ -1,2 +1,2 @@
 # machine_learning_method
-# by Jiani Lin
+ by Jiani Lin
